@@ -2,12 +2,12 @@
 A classic memory-based game built using HTML, CSS, and JavaScript — where you challenge your brain to remember and repeat the color sequence as it grows with every level!
 
 🔥 Features
-🎨 Interactive & colorful UI
-🧩 Random sequence generation at each level
-👆 Click-based user input tracking
-✅ Real-time answer checking and feedback
-💥 Game over effect with score display
-📈 Difficulty increases with each level
+1. 🎨 Interactive & colorful UI
+2. 🧩 Random sequence generation at each level
+3. 👆 Click-based user input tracking
+4. ✅ Real-time answer checking and feedback
+5. 💥 Game over effect with score display
+6. 📈 Difficulty increases with each level
 
 💡 How to Play
 1. Press any key to start the game.
@@ -17,6 +17,6 @@ A classic memory-based game built using HTML, CSS, and JavaScript — where you 
 5. If you make a mistake, the game ends — and your score is shown.
 
 🚀 Tech Stack
-HTML – Structure of the game
-CSS – Styling and animations
-JavaScript – Game logic and interactivity
+1. HTML – Structure of the game
+2. CSS – Styling and animations
+3. JavaScript – Game logic and interactivity
